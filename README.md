@@ -1,6 +1,7 @@
 Developed from the original and full [SAF extension for AppInventor by vknow360](https://github.com/vknow360/SAF)
+Blocks and descriptions for both extensions listed below.
 
-# 1 of 2 SimpleSaf
+# SimpleSaf
 Simplified and reduced extension for App Inventor implementation of Storage Access Framework <br>
 This version can be used to copy a foreign file to the ASD, and then replace the original foreign file with the one now "owned" by the app<br>
 **Latest Version:** 1.4
@@ -36,7 +37,7 @@ Property that provides a directory mimetype.<br>
 ## Usages
 1) https://community.appinventor.mit.edu/t/saf-app-inventor-implementation-of-storage-access-framework/41603
 
-# 2 of 2 TextDocSaf
+# TextDocSaf
 Simplified and reduced extension for App Inventor implementation of Storage Access Framework <br>
 This version can be used for full C R U D of text/csv files (foreign or otherwise) in the Shared Directories<br>
 **Latest Version:** 1.0
