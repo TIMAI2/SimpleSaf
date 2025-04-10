@@ -1,4 +1,4 @@
-Developed from the original and full [SAF extension for AppInventor by vknow360]([url](https://github.com/vknow360/SAF))
+Developed from the original and full [SAF extension for AppInventor by vknow360](https://github.com/vknow360/SAF)
 
 # SimpleSaf
 Simplified and reduced extension for App Inventor implementation of Storage Access Framework <br>
