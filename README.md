@@ -4,7 +4,11 @@ This version can be used to copy a foreign file to the ASD, and then replace the
 **Latest Version:** 1.4
 
 ## Blocks
-
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetDocTree_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/CopyDocToASD_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DeleteDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/CopyDocFromASD_Method.png"/><br>
 
 ## Usages
 1) https://community.appinventor.mit.edu/t/saf-app-inventor-implementation-of-storage-access-framework/41603
