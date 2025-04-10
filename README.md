@@ -1,3 +1,5 @@
+Developed from the original and full [SAF extension for AppInventor by vknow360]([url](https://github.com/vknow360/SAF))
+
 # SimpleSaf
 Simplified and reduced extension for App Inventor implementation of Storage Access Framework <br>
 This version can be used to copy a foreign file to the ASD, and then replace the original foreign file with the one now "owned" by the app<br>
