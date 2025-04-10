@@ -27,7 +27,21 @@ This version can be used for full C R U D of text/csv files (foreign or otherwis
 **Latest Version:** 1.0
 
 ## Blocks
-
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GetTextDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GetTextDocTree_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/CreateTextDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/ReadFromTextDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/WriteToTextDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/DeleteTextDoc_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GetTextDocDisplayName_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GetTextDocMimeType_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GotTextUri_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/TextDocCreated_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GotTextReadResult_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/GotTextWriteResult_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/TextDocDeleted_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/TextExtnErrorOccurred_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/textdocsaf/DirMimeType_Get_Property.png"/><br>
 
 
 
