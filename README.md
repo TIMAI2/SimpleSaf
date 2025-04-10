@@ -9,6 +9,14 @@ This version can be used to copy a foreign file to the ASD, and then replace the
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/CopyDocToASD_Method.png"/><br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DeleteDoc_Method.png"/><br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/CopyDocFromASD_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetDisplayName_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetMimeType_Method.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GotUri_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocCopiedToASD_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocCopiedFromASD_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocDeleted_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/ErrorOccurred_Event.png"/><br>
+<img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocDirMimeType_Get_Property.png"/><br>
 
 ## Usages
 1) https://community.appinventor.mit.edu/t/saf-app-inventor-implementation-of-storage-access-framework/41603
