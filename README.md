@@ -1,6 +1,6 @@
 # SimpleSaf
 Simplified and reduced extension for App Inventor implementation of Storage Access Framework <br>
-This version can be used to copy a foreign file to the ASD, and then replace the original file with the one now "owned" by the app<br>
+This version can be used to copy a foreign file to the ASD, and then replace the original foreign file with the one now "owned" by the app<br>
 **Latest Version:** 1.4
 
 ## Blocks
