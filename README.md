@@ -6,18 +6,31 @@ This version can be used to copy a foreign file to the ASD, and then replace the
 **Latest Version:** 1.4
 
 ## Blocks
+Offers user a chooser to select a single file from their selected directory (no default directory).<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetDoc_Method.png"/><br>
+Offers user a chooser to select a directory, and for them to "Use the folder" and give access permission.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetDocTree_Method.png"/><br>
+Copies the selected document (using the uriString) to the device's ASD.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/CopyDocToASD_Method.png"/><br>
+Deletes a selected document (using the uriString).<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DeleteDoc_Method.png"/><br>
+Copies a selected file in the "root" of the ASD to a selected directory, chosen by the user.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/CopyDocFromASD_Method.png"/><br>
+Returns the filename of a document uriString.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetDisplayName_Method.png"/><br>
+Returns the mimetype of a document uriString.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GetMimeType_Method.png"/><br>
+Event that returns the object uri and uriString for a selected document or directory.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/GotUri_Event.png"/><br>
+Event that returns the success of a copy to ASD, and the path.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocCopiedToASD_Event.png"/><br>
+Event that returns the success of a copy from the ASD, and the path.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocCopiedFromASD_Event.png"/><br>
+Event that returns the filname of the deleted document, if successful.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocDeleted_Event.png"/><br>
+Event that returns errors. If left blank, then hides any errors.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/ErrorOccurred_Event.png"/><br>
+Property that provides a directroy mimetype.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocDirMimeType_Get_Property.png"/><br>
 
 ## Usages
