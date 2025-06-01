@@ -35,7 +35,7 @@ Property that provides a directory mimetype.<br>
 <img src="https://github.com/TIMAI2/SimpleSaf/blob/main/images/simplesaf/DocDirMimeType_Get_Property.png"/><br>
 
 ## Usages
-1) https://community.appinventor.mit.edu/t/saf-app-inventor-implementation-of-storage-access-framework/41603
+1) https://ai2.metricrat.co.uk/guides/panacea-saf
 
 # TextDocSaf
 Simplified and reduced extension for App Inventor implementation of Storage Access Framework <br>
@@ -77,7 +77,7 @@ Property that provides a directory mimetype.<br>
 
 
 ## Usages
-1) https://community.appinventor.mit.edu/t/saf-app-inventor-implementation-of-storage-access-framework/41603
+1) https://ai2.metricrat.co.uk/guides/panacea-saf
 
 
 
